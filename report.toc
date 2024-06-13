@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Methodology and Experimental Setup}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Website Selection}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}HTTP Version Support}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Testing Procedure}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Experimental Results}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Impact of Parallel Connections on PLT}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Impact of Caching Policies on PLT}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Performance Testing with \texttt {ab}}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Performance Testing with \texttt {nghttp} and \texttt {h2load}}{4}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Discussion}{4}{section.4}%
+\contentsline {section}{\numberline {5}Conclusion}{4}{section.5}%
